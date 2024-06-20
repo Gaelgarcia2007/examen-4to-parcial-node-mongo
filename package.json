@@ -10,10 +10,17 @@
     "type": "git",
     "url": "git+https://github.com/jesusdmedinac/examen-4to-parcial-node-mongo.git#main"
   },
-  "author": "jesusdmedinac",
+  "author": "Dayana Flores",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jesusdmedinac/examen-4to-parcial-node-mongo/issues"
   },
-  "homepage": "https://github.com/jesusdmedinac/examen-4to-parcial-node-mongo/tree/main#readme"
+  "homepage": "https://github.com/jesusdmedinac/examen-4to-parcial-node-mongo/tree/main#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "4.19.2",
+    "mongodb": "^6.7.0",
+    "mongoose": "^8.4.1",
+    "node": "20.14.0"
+  }
 }
